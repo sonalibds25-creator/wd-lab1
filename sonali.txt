@@ -1,0 +1,13 @@
+<html>
+<body>
+<table border="I">
+<tr>
+<th>Day</th>
+<th>Subject</th>
+<th>Time</th>
+</tr>
+<td>Monday</td>
+<td>Math</td>
+<td>10AM - 12 PM</td>
+</tr>
+</table>
