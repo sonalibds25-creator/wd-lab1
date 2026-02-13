@@ -1,6 +1,6 @@
 <html>
 <body>
-<table border="I">
+<table border="1">
 <tr>
 <th>Day</th>
 <th>Subject</th>
@@ -11,3 +11,4 @@
 <td>10AM - 12 PM</td>
 </tr>
 </table>
+
